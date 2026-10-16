@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "calcifer") (type "KiCad") (uri "${KIPRJMOD}/calcifer.pretty") (options "") (descr ""))
+)
